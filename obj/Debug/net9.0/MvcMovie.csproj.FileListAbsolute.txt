@@ -362,3 +362,4 @@ E:\BYU\code\.net\MvcMovie\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\BYU\code\.net\MvcMovie\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 E:\BYU\code\.net\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.AssemblyReference.cache
 E:\BYU\code\.net\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
+E:\BYU\code\.net\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
